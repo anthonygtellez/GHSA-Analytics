@@ -106,4 +106,4 @@ login(token=os.environ["HF_TOKEN"])
 
 ## 📄 License
 
-MIT License — feel free to modify and adapt this notebook for your security team or research. Happy Hunting [@anthonygtellez](anthonygtellez.github.io)
+MIT License — feel free to modify and adapt this notebook for your security team or research. Happy Hunting [@anthonygtellez](https://anthonygtellez.github.io)
