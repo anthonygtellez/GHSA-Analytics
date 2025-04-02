@@ -89,7 +89,6 @@ login(token=os.environ["HF_TOKEN"])
 
 ## 📊 Visualization Features
 
-- Bubble/scatter plots of vulnerable packages by ecosystem and severity
 - Cluster view of CVEs grouped by NLP similarity
 - Easily identify critical packages or commonly exploited components
 
